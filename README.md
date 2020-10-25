@@ -1,56 +1,28 @@
-### Hi there 👋
+Account age: **7** years
 
-<a href="https://github.com/marosmars">
-<img align="center" alt="marosmars's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=marosmars&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+Pushed **1237** commits
 
-<a href="https://github.com/marosmars">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=marosmars&layout=compact&theme=radical" />
-</a>
+Opened **5** issues
 
+Submitted **144** pull requests
 
+Received **29** stars
 
+Own **23** repositories
 
-
-
-
-
-Account age: **{{ ACCOUNT_AGE }}** years
-
-Pushed **{{ COMMITS }}** commits
-
-Opened **{{ ISSUES }}** issues
-
-Submitted **{{ PULL_REQUESTS }}** pull requests
-
-Received **{{ STARS }}** stars
-
-Own **{{ REPOSITORIES }}** repositories
-
-Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
+Contributed to **17** public repositories
 
 Top 8 most used languages across your repositories:
 
-{{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
+![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B198.4%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B10.8%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B10.3%25)
+![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B10.1%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.2%25)
 
 Top 4 most used languages across your repositories:
 
-{{ LANGUAGE_TEMPLATE_START:max=4 }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
-
-<!--
-**marosmars/marosmars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B198.4%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B10.8%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B10.3%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.3%25)
